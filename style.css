@@ -30,11 +30,6 @@ table#main{
 	margin-right: auto;
 	padding: 10px;
 }
-a.game:link{
-  color: #000000;
-  font-weight: bold;
-}
-a.game:visited{
-  color: #000000;
-  font-weight: bold;
+a.game:link, a.game:visited{
+  color: #440066;
 }
